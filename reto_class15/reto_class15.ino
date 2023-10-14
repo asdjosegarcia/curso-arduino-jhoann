@@ -1,4 +1,5 @@
-//luz amarilla 3 veces, luz roja 5 veces, luz roja 5 veces
+//luz amarilla 3 veces, luz roja 5 veces, luz amarilla 3 veces,luz roja 5 veces
+//yo lo hice con azul y verde por que no tenia leds de esos colores y queria pobar mis nuevos leds rgb tipo anodo :D
 int lBlue = 8;
 int lGreen = 9;
 int lRed = 10;
