@@ -1,3 +1,7 @@
+//diagrama conexion:
+//A 5V
+//B A0 (la del medio)
+//C GND 
 float vOut;//voltageOutpu
 int vReadPin=A0;//pin donde se leera el voltataje entrante
 int dt= 100;//delay
